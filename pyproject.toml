@@ -1,0 +1,16 @@
+[project]
+name = "bayesian-belief-tracking"
+version = "0.1.0"
+description = "Prefix-safe Bayesian belief tracking for LLM reasoning trace reliability."
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest"]
+data = ["datasets"]
+
+[tool.setuptools.packages.find]
+include = ["csbf*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
