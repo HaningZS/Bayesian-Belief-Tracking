@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/readme_hero.png" alt="Bayesian Belief Tracking hero" width="100%">
-</p>
-
 <h1 align="center">Bayesian Belief Tracking</h1>
 
 <p align="center">
