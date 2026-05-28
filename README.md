@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/HaningZS/Bayesian-Belief-Tracking.git"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-HaningZS%2FBayesian--Belief--Tracking-181717?logo=github"></a>
+  <a href="https://arxiv.org/abs/2605.27712"><img alt="Paper" src="https://img.shields.io/badge/paper-arXiv%3A2605.27712-B31B1B?logo=arxiv&logoColor=white"></a>
   <img alt="Python" src="https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white">
   <img alt="Core dependencies" src="https://img.shields.io/badge/core%20deps-standard%20library-0E8A61">
   <img alt="Tests" src="https://img.shields.io/badge/tests-offline-5B6CFF">
